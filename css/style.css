@@ -263,7 +263,7 @@ nav ul li:hover > ul {
 header {
 	float: left;
 	width: 100%;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 }
 .header-data {
 	float: left;
@@ -524,8 +524,8 @@ nav > ul > li > a:hover {
 .user-account {
 	float: right;
 	width: 110px;
-	border-left: 1px solid #b71b1c;
-	border-right: 1px solid #b71b1c;
+	border-left: 1px solid #7b1fa2;
+	border-right: 1px solid #7b1fa2;
 	box-sizing: border-box;
 	position: relative;
 }
@@ -612,7 +612,7 @@ nav > ul > li > a:hover {
 .search_form form button {
 	color: #f2f2f2;
 	font-size: 14px;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	padding: 0 10px;
 	height: 100%;
 	position: absolute;
@@ -723,7 +723,7 @@ main {
 .username-dt {
 	float: left;
 	width: 100%;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	padding-top: 40px;
 }
 .user-data {
@@ -796,7 +796,7 @@ main {
 	font-size: 20px;
 }
 .user-fw-status li a {
-	color: #b71b1c;
+	color: #7b1fa2;
 	font-size: 14px;
 	font-weight: 600;	
 }
@@ -961,7 +961,7 @@ main {
 	width: 100%;
 	padding: 23px 20px;
 	background-color: #fff;
-	border-top: 4px solid #b71b1c;
+	border-top: 4px solid #7b1fa2;
 	border-left: 1px solid #e4e4e4;
 	border-bottom: 1px solid #e4e4e4;
 	border-right: 1px solid #e4e4e4;
@@ -1003,7 +1003,7 @@ main {
 }
 .post-st ul li a:hover,
 .post-st ul li a.active {
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	color: #fff;
 }
 
@@ -1151,7 +1151,7 @@ main {
 	font-size: 24px;
 	width: 30px;
 	height: 30px;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	text-align: center;
 	line-height: 30px;
 }
@@ -1445,7 +1445,7 @@ main {
 	font-weight: 600;
 }
 .user-profy > a:hover {
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	color: #fff;
 }
 .slick-slide img {
@@ -1513,7 +1513,7 @@ main {
 }
 .slick-previous:hover:before,
 .slick-nexti:hover:before {
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	color: #fff;
 	border-color: transparent;
 }
@@ -2521,10 +2521,10 @@ footer {
 }
 .cover-sec > a {
 	display: inline-block;
-	color: #b71b1c;
+	color: #7b1fa2;
 	font-size: 16px;
 	background-color: #fff;
-	border: 1px solid #b71b1c;
+	border: 1px solid #7b1fa2;
 	position: absolute;
 	top: 30px;
 	right: 0;
@@ -2564,7 +2564,7 @@ footer {
 	border-radius: 100px;
 	color: #fff;
 	line-height: 40px;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	position: absolute;
 	top: 0;
 	left: 60%;
@@ -2793,7 +2793,7 @@ footer {
 	display: inline-block;
 	color: #ffffff;
 	font-size: 16px;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	padding: 12px;
 }
 .message-btn a:hover {
@@ -3592,7 +3592,7 @@ a:hover {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background-color: #b71b1c;
+	background-color: #7b1fa2;
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 500;
