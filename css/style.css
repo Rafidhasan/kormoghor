@@ -1513,7 +1513,7 @@ main {
 }
 .slick-previous:hover:before,
 .slick-nexti:hover:before {
-	background-color: #e44d3a;
+	background-color: #012060;
 	color: #fff;
 	border-color: transparent;
 }
