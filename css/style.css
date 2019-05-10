@@ -612,7 +612,7 @@ nav > ul > li > a:hover {
 .search_form form button {
 	color: #f2f2f2;
 	font-size: 14px;
-	background-color: #e44d3a;
+	background-color: #012060;
 	padding: 0 10px;
 	height: 100%;
 	position: absolute;
@@ -2521,10 +2521,10 @@ footer {
 }
 .cover-sec > a {
 	display: inline-block;
-	color: #e44d3a;
+	color: #012060;
 	font-size: 16px;
 	background-color: #fff;
-	border: 1px solid #e44d3a;
+	border: 1px solid #012060;
 	position: absolute;
 	top: 30px;
 	right: 0;
@@ -2564,7 +2564,7 @@ footer {
 	border-radius: 100px;
 	color: #fff;
 	line-height: 40px;
-	background-color: #e44d3a;
+	background-color: #012060;
 	position: absolute;
 	top: 0;
 	left: 60%;
@@ -2764,7 +2764,7 @@ footer {
 	filter: grayscale(0);
 }
 .tab-feed ul li.active span {
-	color: #e44d3a;
+	color: #000;
 }
 .tab-feed ul li img {
 	float: none;
@@ -2793,7 +2793,7 @@ footer {
 	display: inline-block;
 	color: #ffffff;
 	font-size: 16px;
-	background-color: #e44d3a;
+	background-color: #012060;
 	padding: 12px;
 }
 .message-btn a:hover {
