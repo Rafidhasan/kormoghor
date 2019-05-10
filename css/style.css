@@ -796,7 +796,7 @@ main {
 	font-size: 20px;
 }
 .user-fw-status li a {
-	color: #e44d3a;
+	color: #012060;
 	font-size: 14px;
 	font-weight: 600;	
 }
@@ -3592,7 +3592,7 @@ a:hover {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background-color: #e44d3a;
+	background-color: #012060;
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 500;
