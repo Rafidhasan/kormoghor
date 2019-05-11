@@ -521,6 +521,7 @@ nav > ul > li > a:hover {
 	color: #fff;
 }
 
+
 .user-account {
 	float: right;
 	width: 110px;
@@ -1216,6 +1217,35 @@ main {
 	font-weight: 500;
 }
 .job-dt li span {
+	color: #000000;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.job-pt {
+	float: left;
+	width: 100%;
+	margin-bottom: 22px;
+}
+.job-pt li {
+	display: inline-block;
+	margin-right: 15px;
+}
+.job-pt li a {
+	color: #fff;
+	background-color: orangered;
+	text-transform: capitalize;
+	padding: 5px 13px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	border-radius: 30px;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 500;
+}
+.job-pt li span {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 600;
